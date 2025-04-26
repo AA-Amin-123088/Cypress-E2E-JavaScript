@@ -9,7 +9,6 @@ class HomeLocator{
     products_button(){
         return cy.xpath("//a[@href='/products']");
     }
-    
-  
+     
 }
 export default HomeLocator
