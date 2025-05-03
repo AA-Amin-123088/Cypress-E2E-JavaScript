@@ -4,6 +4,7 @@
         "commandline",
         "iqjavs",
         "localstorage",
+        "mailslurp",
         "userdropdown"
     ]
 }
